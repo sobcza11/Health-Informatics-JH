@@ -2,6 +2,8 @@
   <strong><big>Health Informatics</big></strong>
 </p>
 
+---
+
 A five-course series completed through the Johns Hopkins University Master of Health Informatics program. This series covers problem definition, data analysis, decision support design, and change management in health information technology.
 
 ---
