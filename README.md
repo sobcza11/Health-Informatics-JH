@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sobcza11/Health-Informatics-JH/main/_supporting/johns_hops.jpg" alt="Johns Hopkins Logo">
+  <img src="https://github.com/sobcza11/Health-Informatics-JH/blob/main/_supporting/johns_hops.jpg">
 </p>
 
 <h1 align="center">Health Informatics</h1>
