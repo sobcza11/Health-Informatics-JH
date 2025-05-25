@@ -38,11 +38,3 @@ A five-course series completed through the Johns Hopkins University Master of He
 
 
 
-### Project Files
-
-- `01_problem_definition.pdf` – Defined the health IT problem and objectives  
-- `02_stack_analysis.docx` – Informatics stack diagram and analysis  
-- `03_change_plan.pptx` – Change management and stakeholder strategy  
-- `04_dss_design.docx` – Specification of the decision support widget  
-- `05_data_analysis.ipynb` – Data retrieval and exploratory analysis notebook  
-- `06_capstone_plan.pdf` – Final intervention plan with workflow and evaluation  
