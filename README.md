@@ -16,7 +16,7 @@ A five-course series completed through the Johns Hopkins University Master of He
 ### Course Sequence
 
 1. **Social & Technical Context of Health Informatics**  
-   - Problem framing, informatics stack, socio-technical analysis  
+   - <i>Problem framing, informatics stack, socio-technical analysis</i>  
 2. **Leading Change in Health Informatics**  
    - Change management steps, teamwork models, project tools  
 3. **Outcomes & Interventions of Health Informatics**  
