@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sobcza11/Health-Informatics-JH/main/_supporting/johns_hops.jpg" alt="Johns Hopkins Logo" />
+</p>
+
 <h1 align="center">Health Informatics</h1>
 
 
