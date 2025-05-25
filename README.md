@@ -1,4 +1,4 @@
-<h1 align="center">Health Informatics Specialization</h1>
+<h1 align="center">Health Informatics</h1>
 
 ---
 
