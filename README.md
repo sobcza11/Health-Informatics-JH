@@ -7,9 +7,7 @@
 </p>
 
 
-<h2 align="center" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">
-  Health Informatics
-</h2>
+<h2 align="center" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">Health Informatics</h2>
 
 
 
