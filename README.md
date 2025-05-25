@@ -8,8 +8,8 @@ A five-course series completed through the Johns Hopkins University Master of He
 
 ### Certificate
 
-- **Johns Hopkins University Health Informatics Specialization**  
-  – Awarded by Coursera (verified credential)
+- **Johns Hopkins University | Health Informatics Specialization**  
+  – <i>Awarded by Coursera (verified credential)</i>
 
 
 
