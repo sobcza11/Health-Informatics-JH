@@ -18,13 +18,13 @@ A five-course series completed through the Johns Hopkins University Master of He
 1. **Social & Technical Context of Health Informatics**  
    - <i>Problem framing, informatics stack, socio-technical analysis</i>  
 2. **Leading Change in Health Informatics**  
-   - Change management steps, teamwork models, project tools  
+   - <i>Change management steps, teamwork models, project tools</i> 
 3. **Outcomes & Interventions of Health Informatics**  
-   - Decision support frameworks, knowledge acquisition  
+   - <i>Decision support frameworks, knowledge acquisition</i>
 4. **Data Science of Health Informatics**  
-   - Data types in health, querying vs. questioning, big data methods  
+   - <i>Data types in health, querying vs. questioning, big data methods</i>
 5. **Culminating Project in Health Informatics**  
-   - End-to-end intervention plan demonstrating learned skills  
+   - <i>End-to-end intervention plan demonstrating learned skills</i>
 
 ---
 
