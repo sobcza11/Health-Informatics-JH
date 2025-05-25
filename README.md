@@ -7,9 +7,7 @@
 </p>
 
 
-<h2 align="center" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">Health Informatics</h2>
-
-
+<h2 align="center">Health Informatics Specialization</h2>
 
 A five-course series completed through the Johns Hopkins University Master of Health Informatics program. This series covers problem definition, data analysis, decision support design, and change management in health information technology.
 
