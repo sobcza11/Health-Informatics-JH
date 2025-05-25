@@ -1,6 +1,4 @@
-<p align="center">
-  <strong><big>### Health Informatics</big></strong>
-</p>
+<h1 align="center">Health Informatics Specialization</h1>
 
 ---
 
@@ -8,14 +6,14 @@ A five-course series completed through the Johns Hopkins University Master of He
 
 ---
 
-# Certificate
+### Certificate
 
 - **Johns Hopkins University Health Informatics Specialization**  
   – Awarded by Coursera (verified credential)
 
 ---
 
-# Course Sequence
+### Course Sequence
 
 1. **Social & Technical Context of Health Informatics**  
    - Problem framing, informatics stack, socio-technical analysis  
@@ -30,7 +28,7 @@ A five-course series completed through the Johns Hopkins University Master of He
 
 ---
 
-# Key Competencies
+### Key Competencies
 
 - Clinical Data Management  
 - Decision Support Systems  
@@ -40,7 +38,7 @@ A five-course series completed through the Johns Hopkins University Master of He
 
 ---
 
-# Project Files
+### Project Files
 
 - `01_problem_definition.pdf` – Defined the health IT problem and objectives  
 - `02_stack_analysis.docx` – Informatics stack diagram and analysis  
