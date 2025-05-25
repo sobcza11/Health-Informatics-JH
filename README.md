@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/sobcza11/Health-Informatics-JH/blob/main/_supporting/johns_hops.jpg" 
     alt="Johns Hopkins Logo"
-    width="200"
+    width="600"
   />
 </p>
 
