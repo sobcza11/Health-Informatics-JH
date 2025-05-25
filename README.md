@@ -4,14 +4,14 @@
 
 A five-course series completed through the Johns Hopkins University Master of Health Informatics program. This series covers problem definition, data analysis, decision support design, and change management in health information technology.
 
-----
+
 
 ### Certificate
 
 - **Johns Hopkins University Health Informatics Specialization**  
   – Awarded by Coursera (verified credential)
 
-----
+
 
 ### Course Sequence
 
@@ -36,7 +36,7 @@ A five-course series completed through the Johns Hopkins University Master of He
 - Data Retrieval, Modeling & Analysis  
 - Workflow Redesign & Project Leadership  
 
----
+
 
 ### Project Files
 
