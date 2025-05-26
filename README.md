@@ -11,7 +11,7 @@
 
 A **five-course series** completed through the **Johns Hopkins University**, **M.S. in  Health Informatics** program. This series covers problem definition, data analysis, decision support design, and change management in health information technology.
 
-A **five-course series** completed through the: 
+- **A **five-course series** completed through the: 
   – <i>**Johns Hopkins University**, **M.S. in  Health Informatics**</i> program. 
 
 This series covers problem definition, data analysis, decision support design, and change management in health information technology.
