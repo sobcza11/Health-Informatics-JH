@@ -11,7 +11,7 @@ A **five-course series** completed through the **Johns Hopkins University**, **M
 
 ### Applied Capstone
 
-1. **From Rules to Reasoning**  
+1. **From Rules to Reasoning** | [**link**](https://github.com/sobcza11/smartcds/tree/main) 
    - <i>A/B-tested CDS pipelines (Drools vs GenAI) via SMART-on-FHIR & Spark, alert timing gains & HIPAA compliance</i>
 
 ### Course Sequence
