@@ -9,7 +9,10 @@
 
 A **five-course series** completed through the **Johns Hopkins University**, **M.S. in  Health Informatics** program. This series covers problem definition, data analysis, decision support design, and change management in health information technology.
 
+### Applied Capstone
 
+1. **From Rules to Reasoning**  
+   - <i>A/B-tested CDS pipelines (Drools vs GenAI) via SMART-on-FHIR & Spark, alert timing gains & HIPAA compliance</i>
 
 ### Course Sequence
 
