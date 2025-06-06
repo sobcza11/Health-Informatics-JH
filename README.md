@@ -36,6 +36,3 @@ A **five-course series** completed through the **Johns Hopkins University**, **M
 - Change Management & Process Improvement  
 - Data Retrieval, Modeling & Analysis  
 - Workflow Redesign & Project Leadership  
-
-
-
