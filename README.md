@@ -8,7 +8,7 @@
 
 <h2 align="center">Health Informatics</h2>
 
-A **five-course series** completed through **Johns Hopkins University**, as part of their **Certificate in Health Informatics**. This program explores the socio-technical, organizational, and analytical foundations of digital transformation in healthcare.
+A **five-course series** completed through **Johns Hopkins University**, as part of their course in **Health Informatics**. This program explores the socio-technical, organizational, and analytical foundations of digital transformation in healthcare.
 
 ---
 
