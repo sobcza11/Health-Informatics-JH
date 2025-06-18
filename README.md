@@ -14,7 +14,7 @@ A **five-course series** completed through **Johns Hopkins University**, as part
 
 ### 🏥 Applied Capstone – *MIMIC-CDS*
 
-[**Explore the Project →**](https://github.com/sobcza11/mimiccds)
+[**Explore the Project**](https://github.com/sobcza11/mimiccds)
 
 A modular Clinical Decision Support (CDS) platform designed to simulate ICU decision-making using **real de-identified EHR from MIMIC-IV**. The project integrates:
 
