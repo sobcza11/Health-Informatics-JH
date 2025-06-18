@@ -5,34 +5,49 @@
     width="500"
   />
 </p>
+
 <h2 align="center">Health Informatics</h2>
 
-A **five-course series** completed through the **Johns Hopkins University**, in the **Cert. in  Health Informatics** program. This series covers problem definition, data analysis, decision support design, and change management in health information technology.
-
-### Applied Capstone
-
-1. **From Rules to Reasoning** | [**link**](https://github.com/sobcza11/smartcds/tree/main) 
-   - <i>A/B-tested CDS pipelines (Drools vs GenAI) via SMART-on-FHIR & Spark, alert timing gains & HIPAA compliance</i>
-
-### Course Sequence
-
-1. **Social & Technical Context of Health Informatics**  
-   - <i>Problem framing, informatics stack, socio-technical analysis</i>  
-2. **Leading Change in Health Informatics**  
-   - <i>Change management steps, teamwork models, project tools</i> 
-3. **Outcomes & Interventions of Health Informatics**  
-   - <i>Decision support frameworks, knowledge acquisition</i>
-4. **Data Science of Health Informatics**  
-   - <i>Data types in health, querying vs. questioning, big data methods</i>
-5. **Culminating Project in Health Informatics**  
-   - <i>End-to-end intervention plan demonstrating learned skills</i>
+A **five-course series** completed through **Johns Hopkins University**, as part of their **Certificate in Health Informatics**. This program explores the socio-technical, organizational, and analytical foundations of digital transformation in healthcare.
 
 ---
 
-### Key Competencies
+### 🏥 Applied Capstone – *MIMIC-CDS*
 
-- Clinical Data Management  
-- Decision Support Systems  
-- Change Management & Process Improvement  
-- Data Retrieval, Modeling & Analysis  
-- Workflow Redesign & Project Leadership  
+[**Explore the Project →**](https://github.com/sobcza11/mimiccds)
+
+A modular Clinical Decision Support (CDS) platform designed to simulate ICU decision-making using **real de-identified EHR from MIMIC-IV**. The project integrates:
+
+- **FHIR-compatible patient records**
+- **Drools rulesets for baseline recommendations**
+- **A/B testing vs. GenAI inference**
+- **Fairness audits by gender, race, and age**
+- **Explainability via SHAP visualizations**
+- **HIPAA-aware architecture with full transparency**
+
+> All modules are implemented in a Spark-based pipeline with structured JSON input, SHAP explainability, and model card documentation.
+
+---
+
+### 📘 Course Sequence
+
+1. **Social & Technical Context of Health Informatics**  
+   *Informatics stack, stakeholder analysis, HIT systems thinking*  
+2. **Leading Change in Health Informatics**  
+   *Process improvement, resistance management, team alignment*  
+3. **Outcomes & Interventions of Health Informatics**  
+   *Decision support frameworks, logic rules, knowledge design*  
+4. **Data Science of Health Informatics**  
+   *Querying patient data, structured/unstructured formats, big data tools*  
+5. **Culminating Project in Health Informatics**  
+   *Designed & implemented an end-to-end CDS platform with MIMIC-IV*
+
+---
+
+### 🔧 Key Competencies
+
+- Clinical Decision Support System (CDS) Design  
+- FHIR Integration & Health Data Modeling  
+- SHAP Explainability & Fairness Audits  
+- A/B Testing & Recommendation Systems  
+- HIPAA-Compliant Workflows & Data Ethics
