@@ -14,18 +14,18 @@ A **five-course series** completed through **Johns Hopkins University**, as part
 
 ### 🏥 Applied Capstone – *MIMIC-CDS*
 
-[**Explore the Project**](https://github.com/sobcza11/mimiccds)
+[**Explore the Project →**](https://github.com/sobcza11/mimiccds)
 
 A modular Clinical Decision Support (CDS) platform designed to simulate ICU decision-making using **real de-identified EHR from MIMIC-IV**. The project integrates:
 
 - **FHIR-compatible patient records**
 - **Drools rulesets for baseline recommendations**
-- **A/B testing vs. GenAI inference**
+- **A/B testing against GenAI inference modules**
 - **Fairness audits by gender, race, and age**
 - **Explainability via SHAP visualizations**
 - **HIPAA-aware architecture with full transparency**
 
-> All modules use structured JSON inputs and simulate real CDS workflows with SHAP-based explainability and transparent documentation inspired by model card best practices.
+> Modules use structured JSON files to represent patient records, rulesets, and explainability outputs. SHAP-based insights and model card principles ensure interpretability, fairness, and transparency throughout the CDS pipeline.
 
 ---
 
