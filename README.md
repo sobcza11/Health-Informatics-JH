@@ -25,7 +25,7 @@ A modular Clinical Decision Support (CDS) platform designed to simulate ICU deci
 - **Explainability via SHAP visualizations**
 - **HIPAA-aware architecture with full transparency**
 
-> All modules are implemented in a Spark-based pipeline with structured JSON input, SHAP explainability, and model card documentation.
+> All modules use structured JSON inputs and simulate real CDS workflows with SHAP-based explainability and transparent documentation inspired by model card best practices.
 
 ---
 
